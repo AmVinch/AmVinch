@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![python badge](https://img.shields.io/badge/-PYTHON-%23F7DF1E?style=flat-square&logo=Python&logoColor=white&color=3776AB)
-<a href="https://velog.io/@ub997"/></a>
+<a href="https://velog.io/@ub997"><img src="https://img.shields.io/badge/Tech blog-20C997?style=flat-square&logo=Velog&&logoColor=white"/></a>
 
 <!--
 **AmVinch/AmVinch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
