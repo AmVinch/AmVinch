@@ -4,9 +4,7 @@
 <img src="https://komarev.com/ghpvc/?username=amvinch&label=Profile%20views&color=0e75b6&style=flat" alt="amvinch" /> 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=amvinch&show_icons=true&locale=en" alt="amvinch" />
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ub997)]([https://solved.ac/ub997/](https://solved.ac/profile/ub997))
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=amvinch&show_icons=true&locale=en" alt="amvinch" />
 
 
 ### ⚙ skiils
