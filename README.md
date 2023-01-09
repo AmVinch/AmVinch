@@ -1,17 +1,12 @@
-### Hi there 👋, my name is yoobin Lee
-![java badge](https://img.shields.io/badge/-PYTHON-%23F7DF1E?style=flat-square&logo=Python&logoColor=white&color=3776AB)
-<a href="https://velog.io/@ub997"><img src="https://img.shields.io/badge/Tech blog-20C997?style=flat-square&logo=Velog&&logoColor=white"/></a>
-
-#### I am Junior Back-End developer  
 
 <h1 align="center">Hi 👋, I'm yoobin Lee</h1>
-<h3 align="center">A passionate frontend developer from south of korea</h3>
+<h3 align="center">I am Junior Back-End developer from south of korea</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amvinch&label=Profile%20views&color=0e75b6&style=flat" alt="amvinch" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amvinch" alt="amvinch" /></a> </p>
 
-- 📝 I regularly write articles on [https://velog.io/@ub997](https://velog.io/@ub997)
+- 📝 I regularly write articles on [https://velog.io/@ub997](https://velog.io/@ub997)<a href="https://velog.io/@ub997"><img src="https://img.shields.io/badge/Tech blog-20C997?style=flat-square&logo=Velog&&logoColor=white"/></a>
 
 - 📫 How to reach me **ub997@naver.com**
 
