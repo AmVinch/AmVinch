@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm yoobin Lee</h1>
 <h3 align="center">I am Junior Back-End developer from south of korea</h3>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ub997)]([https://solved.ac/ub997/](https://solved.ac/profile/ub997))
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amvinch&label=Profile%20views&color=0e75b6&style=flat" alt="amvinch" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amvinch" alt="amvinch" /></a> </p>
@@ -24,5 +26,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amvinch&" alt="amvinch" /></p>
 
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ub997)]([https://solved.ac/ub997/](https://solved.ac/profile/ub997))
